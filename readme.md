@@ -1,3 +1,4 @@
+Slightly modified the file
 # Linux Foundation Certified System Administrator (LFCS)
 
 These are the notes I made while taking the [Linux Foundation Certified System Administrator (LFCS) series of courses on Pluralsight - by Andrew Mallet](https://app.pluralsight.com/paths/certificate/linux-foundation-certified-system-admin).  
